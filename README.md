@@ -94,7 +94,7 @@ git remote add origin <your-empty-github-repo-url>
 git push -u origin main
 ```
 
-## Notes for future work (good talking points in interviews)
+## Notes for future work
 
 - Add authentication (JWT) so tasks are scoped per user.
 - Add pagination / search on the tasks list.
