@@ -1,7 +1,6 @@
 # Task Tracker
 
-A small full-stack task management app built to practice the exact stack used
-in Citi's Technology Apprenticeship Program: **React.js + Material UI** on the
+A small full-stack task management app: **React.js + Material UI** on the
 frontend, **Python (Flask)** on the backend, **MongoDB** for storage, and
 **Git/GitHub** for version control.
 
